@@ -10,7 +10,7 @@ Your disciplinary range, your aesthetic sensitivity, your ability to distinguish
 
 This document explores how that understanding took shape.
 
-![Report Overview](docs/demo-overview.png)
+<img width="800" alt="Report Overview" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" />
 
 ---
 
@@ -188,9 +188,11 @@ Analysis content is rendered into an interactive HTML report: source image and o
 
 Different cognitive layers are carried by different visual hierarchies — observation and attribution presented separately, core insights' three-level progression (attribution → meta-thinking → reuse suggestions) each in their own block.
 
-![Core Insights](docs/demo-insights.png)
+<img width="800" alt="Core Insights" src="https://github.com/user-attachments/assets/3ff4f544-1aea-4cb2-bb76-893a0df48b4b" />
 
-![Prompt Generation](docs/demo-prompts.png)
+<img width="800" alt="Style Parameters" src="https://github.com/user-attachments/assets/3a23a953-81ba-484f-89a3-36993bb9c6d1" />
+
+<img width="800" alt="Prompt Generation" src="https://github.com/user-attachments/assets/c04ff253-2461-44e5-b20b-a08d053eac70" />
 
 Deep thinking deserves to be clearly seen.
 
