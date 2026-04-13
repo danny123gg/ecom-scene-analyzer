@@ -8,6 +8,8 @@ One thing became increasingly clear while building this Skill: the model's capab
 
 Your disciplinary range, your aesthetic sensitivity, your ability to distinguish phenomena from principles, your intuition that "there might be another layer here" — these determine how deep you can take AI.
 
+In this sense, a Skill is not just an automation tool — it's a model potential activation system. Through carefully designed knowledge injection, analytical perspectives, and cognitive pathways, it guides the model from its default state of surface-level description to a depth that touches the essence of things.
+
 This document explores how that understanding took shape.
 
 <a href="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" target="_blank"><img width="800" alt="Report Overview" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" /></a>
@@ -156,11 +158,17 @@ This is the dividing line between analysis and insight. Analysis is valid within
 
 A Skill that only requires attribution produces analysis; requiring meta-thinking is what makes insight possible.
 
+Looking back at these design layers — perspective injection, attribution toolbox, meta-thinking requirements — they're all doing the same thing: pushing the model from "describing the surface" toward "grasping the essence." The model doesn't lack the ability to reach the essence; it lacks a signal telling it "don't stop at the surface, keep going deeper." Every layer of the Skill's design is that signal.
+
 ---
 
 ## From Analysis to Generation
 
 The other half of this Skill is prompt generation — based on analysis results, producing prompts that can be directly used with AI image generation tools.
+
+> **On generation model choice**: The generated prompts are recommended for use with Google's Gemini model family. Tested with good results on Gemini Nano and Imagen (Banana2). Prompt effectiveness correlates directly with the generation model's intelligence level — stronger models interpret visual semantics, spatial relationships, and character descriptions more accurately, producing noticeably better output.
+>
+> From another angle, using this Skill is itself a process of activating the model's potential — category knowledge supplements its vertical domain cognition, the attribution toolbox configures cross-disciplinary analytical perspectives, and the cognitive ladder guides it from identification to insight. A Skill isn't just an execution script; it's a carefully designed set of cognitive activation signals.
 
 Two design choices are worth mentioning.
 
@@ -222,7 +230,9 @@ AI is the sum of all known knowledge. A person with deep humanistic literacy is 
 
 This Skill is one attempt. It tries to freeze a cognitive pathway that emerged from dialogue, making it reusable for more people.
 
-But it's also a reminder: what truly determines the depth of output isn't the Skill's structure, but how much the person designing the Skill is willing to invest in their own depth.
+But it's more than a reusable tool. Using this Skill is itself a practice in activating model potential — you'll see how category knowledge fills the model's vertical domain blind spots, how the attribution toolbox pushes it from "describing phenomena" to "explaining essences," how the cognitive ladder guides it from analysis to insight. This logic of moving from surface to core isn't limited to e-commerce photo analysis — it's a Skill design methodology transferable to any domain.
+
+And this is the final reminder: what truly determines the depth of output isn't the Skill's structure, but whether the person designing the Skill has the ability to grasp the essence of things rather than stopping at the surface — and how much they're willing to invest in their own depth.
 
 ---
 
