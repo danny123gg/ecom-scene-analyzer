@@ -4,11 +4,11 @@
 
 A Claude Code Skill for analyzing e-commerce scene photography (currently specialized in children's learning furniture), producing multi-dimensional visual analysis reports and AI image generation prompts.
 
-One thing became increasingly clear while building this Skill: the model's capability ceiling is far higher than most people assume, but that ceiling doesn't surface on its own. It needs to be awakened — and the way you awaken it isn't a more clever prompt, it's how you see the world.
+One thing became increasingly clear while building this Skill: **the model's capability ceiling is far higher than most people assume, but that ceiling doesn't surface on its own.** It needs to be awakened — and the way you awaken it isn't a more clever prompt, it's how you see the world.
 
 Your disciplinary range, your aesthetic sensitivity, your ability to distinguish phenomena from principles, your intuition that "there might be another layer here" — these determine how deep you can take AI.
 
-In this sense, a Skill is not just an automation tool — it's a model potential activation system. Through carefully designed knowledge injection, analytical perspectives, and cognitive pathways, it guides the model from its default state of surface-level description to a depth that touches the essence of things.
+In this sense, **a Skill is not just an automation tool — it's a model potential activation system**. Through carefully designed knowledge injection, analytical perspectives, and cognitive pathways, it guides the model from its default state of surface-level description to a depth that touches the essence of things.
 
 This document explores how that understanding took shape.
 
@@ -32,7 +32,7 @@ The model began explaining how **mirror neurons** create parental identification
 
 The model had this knowledge all along. But in the first round, all of it stayed dormant.
 
-These capabilities need a signal to activate — and that signal is the analytical perspective you provide.
+These capabilities need a signal to activate — and **that signal is the analytical perspective you provide**.
 
 ---
 
@@ -66,7 +66,7 @@ This intuition is hard to describe as a "skill." It's more like a sensitivity th
 
 A nose for "there might be another layer here."
 
-This means the Skill designer's cognitive boundary becomes the ceiling of the Skill's output quality. The Skill can be copied, but the judgment behind which lenses to include cannot.
+This means **the Skill designer's cognitive boundary becomes the ceiling of the Skill's output quality**. The Skill can be copied, but the judgment behind which lenses to include cannot.
 
 ---
 
@@ -104,7 +104,7 @@ What's encoded in the Skill was divided into three layers:
 - **Category defaults** — industry consensus (warm tones, soft lighting, tidy environment), overridable
 - **User customization** — Case-level choices (specific clothing color, room type, props), fully flexible
 
-A Skill should encode principles, not phenomena.
+**A Skill should encode principles, not phenomena.**
 
 This sounds like an obvious truism, but distinguishing the two in practice is harder than it looks.
 
@@ -126,7 +126,7 @@ Eventually it became clear: it was doing identification, not attribution.
 
 The gap between these isn't a matter of detail. It's a **difference in kind**.
 
-Identification tells you "what." Attribution tells you "why."
+**Identification tells you "what." Attribution tells you "why."**
 
 ---
 
@@ -158,7 +158,7 @@ This is the dividing line between analysis and insight. Analysis is valid within
 
 A Skill that only requires attribution produces analysis; requiring meta-thinking is what makes insight possible.
 
-Looking back at these design layers — perspective injection, attribution toolbox, meta-thinking requirements — they're all doing the same thing: pushing the model from "describing the surface" toward "grasping the essence." The model doesn't lack the ability to reach the essence; it lacks a signal telling it "don't stop at the surface, keep going deeper." Every layer of the Skill's design is that signal.
+Looking back at these design layers — perspective injection, attribution toolbox, meta-thinking requirements — they're all doing the same thing: **pushing the model from "describing the surface" toward "grasping the essence."** The model doesn't lack the ability to reach the essence; it lacks a signal telling it "don't stop at the surface, keep going deeper." **Every layer of the Skill's design is that signal.**
 
 ---
 
@@ -202,7 +202,7 @@ Different cognitive layers are carried by different visual hierarchies — obser
 <a href="https://github.com/user-attachments/assets/c04ff253-2461-44e5-b20b-a08d053eac70" target="_blank"><img width="32%" alt="Prompt Generation" src="https://github.com/user-attachments/assets/c04ff253-2461-44e5-b20b-a08d053eac70" /></a>
 </p>
 
-Deep thinking deserves to be clearly seen.
+**Deep thinking deserves to be clearly seen.**
 
 This aligns with the Skill's own philosophy: not a black box, but a cognitive pathway visible at every step.
 
@@ -234,7 +234,7 @@ But it's more than a reusable tool. Using this Skill is itself a practice in act
 
 And this is the final reminder: what truly determines the depth of output isn't the Skill's structure, but whether the person designing the Skill has the ability to grasp the essence of things rather than stopping at the surface — and how much they're willing to invest in their own depth.
 
-There's also a longer-term question worth considering. Model intelligence is advancing rapidly, but human cognitive bandwidth and knowledge reserves have inherent limits. As the model's capability ceiling keeps rising while the human conductor's bandwidth doesn't scale proportionally, how to more effectively activate model potential may become the most central question in human-AI collaboration. This Skill is one small-scale experiment toward that question, but far from an answer. The answer needs more people exploring together.
+There's also a longer-term question worth considering. Model intelligence is advancing rapidly, but human cognitive bandwidth and knowledge reserves have inherent limits. As the model's capability ceiling keeps rising while the human conductor's bandwidth doesn't scale proportionally, **how to more effectively activate model potential may become the most central question in human-AI collaboration**. This Skill is one small-scale experiment toward that question, but far from an answer. The answer needs more people exploring together.
 
 ---
 
