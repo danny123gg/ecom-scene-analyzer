@@ -189,9 +189,9 @@ Analysis content is rendered into an interactive HTML report: source image and o
 Different cognitive layers are carried by different visual hierarchies — observation and attribution presented separately, core insights' three-level progression (attribution → meta-thinking → reuse suggestions) each in their own block.
 
 <p>
-<img width="32%" alt="Core Insights" src="https://github.com/user-attachments/assets/3ff4f544-1aea-4cb2-bb76-893a0df48b4b" />
-<img width="32%" alt="Style Parameters" src="https://github.com/user-attachments/assets/3a23a953-81ba-484f-89a3-36993bb9c6d1" />
-<img width="32%" alt="Prompt Generation" src="https://github.com/user-attachments/assets/c04ff253-2461-44e5-b20b-a08d053eac70" />
+<a href="https://github.com/user-attachments/assets/3ff4f544-1aea-4cb2-bb76-893a0df48b4b" target="_blank"><img width="32%" alt="Core Insights" src="https://github.com/user-attachments/assets/3ff4f544-1aea-4cb2-bb76-893a0df48b4b" /></a>
+<a href="https://github.com/user-attachments/assets/3a23a953-81ba-484f-89a3-36993bb9c6d1" target="_blank"><img width="32%" alt="Style Parameters" src="https://github.com/user-attachments/assets/3a23a953-81ba-484f-89a3-36993bb9c6d1" /></a>
+<a href="https://github.com/user-attachments/assets/c04ff253-2461-44e5-b20b-a08d053eac70" target="_blank"><img width="32%" alt="Prompt Generation" src="https://github.com/user-attachments/assets/c04ff253-2461-44e5-b20b-a08d053eac70" /></a>
 </p>
 
 Deep thinking deserves to be clearly seen.
