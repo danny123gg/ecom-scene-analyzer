@@ -70,43 +70,23 @@ This means **the Skill designer's cognitive boundary becomes the ceiling of the 
 
 ---
 
-## Observations Are Not Principles
+## Surface and Essence
 
-An interesting pitfall came up during construction.
+The discussion above — "perspectives determine depth" — addresses how to make the model see deeper. But there's an equally important question: **what should the Skill itself encode?**
 
-The initial dialogue rounds were based on a few specific images. The model identified visual features — hardwood floors, light-colored plush carpet, child not facing the camera, warm yellow tones — and when abstracting into a Skill, these features were directly encoded as rules.
+During iteration, a recurring tendency emerged: the model would extract specific visual features from a few images and solidify them as rules. For example, seeing that good scene photos used soft lighting, it would encode "must use soft lighting."
 
-As if every good children's chair scene photo needed hardwood floors and plush carpet.
+But soft lighting isn't the rule — it's one expression of the rule. The actual rule is: lighting in children's categories should serve a sense of safety — hard shadows on children trigger subconscious "unsafe" associations. Understanding this rule, you know soft lighting is just one means of achieving safety. In certain contexts, other approaches can achieve the same effect.
 
-Testing with new images exposed the problem. An excellent photo with gray tile floors, white walls, and a child smiling at the camera violated every "rule" in the Skill.
+This is the same theme as before: **staying at the surface, or grasping the essence.**
 
----
+Encoding "used soft lighting" in the Skill is encoding the surface. Encoding "why soft lighting was used" is encoding the essence.
 
-What went wrong?
+A Skill that encodes the surface is brittle — change the scenario and it may break. A Skill that encodes the essence has vitality — because principles are stable, they can grow into different expressions across different scenarios.
 
-Hardwood floors, plush carpet, not facing the camera — these are **observations**, not **principles**.
+From the perspective of model potential, this distinction matters even more. **Encoding the surface actually constrains the model** — you lock it into specific visual choices, and it can only imitate. **Encoding the essence activates the model** — you tell it "why," and it has room to flexibly apply that principle in new scenarios, producing solutions you didn't anticipate yourself.
 
-They're specific choices made in those particular images, not universal laws about what a good scene photo looks like.
-
-The real principle lives one layer below: floor material should unify with the overall spatial style and convey the target audience's aesthetic identity. This principle manifests as entirely different floor materials in different scenarios, all valid.
-
-This mistake is actually very common — not just AI, humans do it constantly. We naturally tend to extract patterns from limited samples and treat patterns as laws.
-
-See warm tones in three good photos, conclude "good photos should use warm tones." But warm tones are just one expression of the principle "convey warmth and safety." Cool tones can also convey safety in another context, as long as the overall visual language is unified.
-
----
-
-After recognizing this, the Skill's architecture underwent a significant restructuring.
-
-What's encoded in the Skill was divided into three layers:
-
-- **Hard constraints** — physical laws (human-chair proportion, perspective consistency, light-shadow direction), never violable
-- **Category defaults** — industry consensus (warm tones, soft lighting, tidy environment), overridable
-- **User customization** — Case-level choices (specific clothing color, room type, props), fully flexible
-
-**A Skill should encode principles, not phenomena.**
-
-This sounds like an obvious truism, but distinguishing the two in practice is harder than it looks.
+A good Skill gives the model understanding, not instructions.
 
 ---
 
