@@ -234,6 +234,8 @@ But it's more than a reusable tool. Using this Skill is itself a practice in act
 
 And this is the final reminder: what truly determines the depth of output isn't the Skill's structure, but whether the person designing the Skill has the ability to grasp the essence of things rather than stopping at the surface — and how much they're willing to invest in their own depth.
 
+There's also a longer-term question worth considering. Model intelligence is advancing rapidly, but human cognitive bandwidth and knowledge reserves have inherent limits. As the model's capability ceiling keeps rising while the human conductor's bandwidth doesn't scale proportionally, how to more effectively activate model potential may become the most central question in human-AI collaboration. This Skill is one small-scale experiment toward that question, but far from an answer. The answer needs more people exploring together.
+
 ---
 
 ## Getting Started
