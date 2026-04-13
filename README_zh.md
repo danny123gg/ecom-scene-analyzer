@@ -10,7 +10,7 @@
 
 这篇文档想展开聊聊这个体会是怎么形成的。
 
-<img width="800" alt="报告总览" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" />
+<a href="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" target="_blank"><img width="800" alt="报告总览" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" /></a>
 
 
 ---

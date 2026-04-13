@@ -10,7 +10,7 @@ Your disciplinary range, your aesthetic sensitivity, your ability to distinguish
 
 This document explores how that understanding took shape.
 
-<img width="800" alt="Report Overview" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" />
+<a href="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" target="_blank"><img width="800" alt="Report Overview" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" /></a>
 
 ---
 
