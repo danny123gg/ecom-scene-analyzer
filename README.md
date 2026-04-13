@@ -166,6 +166,8 @@ Looking back at these design layers — perspective injection, attribution toolb
 
 The other half of this Skill is prompt generation — based on analysis results, producing prompts that can be directly used with AI image generation tools.
 
+**Prompts are not translations of style parameters — they are crystallizations of the entire analysis.** They read like surface-level descriptions — what color, what angle, what clothing — but every specific choice is a distillation of the deeper analysis. When the prompt says "cream-colored knit top," that's not a random color pick — it's the product of understanding that "the upper body overlaps with the chair back and should implement a stealth strategy, not competing for visual weight." When it says "a quiet afternoon," that's not atmospheric decoration — it's anchoring the exact usage scenario that triggers parental identification. It looks like describing a scene. It's actually encoding insight.
+
 > **On generation model choice**: The generated prompts are recommended for use with Google's Gemini model family. Tested with good results on Gemini Nano and Imagen (Banana2). Prompt effectiveness correlates directly with the generation model's intelligence level — stronger models interpret visual semantics, spatial relationships, and character descriptions more accurately, producing noticeably better output.
 >
 > From another angle, using this Skill is itself a process of activating the model's potential — category knowledge supplements its vertical domain cognition, the attribution toolbox configures cross-disciplinary analytical perspectives, and the cognitive ladder guides it from identification to insight. A Skill isn't just an execution script; it's a carefully designed set of cognitive activation signals.
