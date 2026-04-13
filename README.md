@@ -16,6 +16,28 @@ This document explores how that understanding took shape.
 
 ---
 
+## Skills Start from Dialogue with the Model
+
+The methodology behind this Skill wasn't designed upfront. It emerged gradually through dialogue with the model.
+
+The process went roughly like this: start with a few images, dialogue with the model from different dimensions, explore and probe. In the conversation, stimulate, align, calibrate — see under which perspectives the model produces analysis that makes you think "yes, that's the depth I'm looking for." Collect those good results along with the thinking process that produced them, then reverse-engineer them into methodology. That methodology becomes the Skill's foundation.
+
+Then polish with different Cases.
+
+This polishing process is critical. What it's essentially doing is **testing which cognitive paths are surface-level and which are essence-level.** An analytical angle that works on a few specific images might fail on a different one — then it's surface. Cognitive paths that survive different Cases are genuine essence, and those are what deserve to stay in the Skill.
+
+---
+
+There's an easily overlooked byproduct of this process: **building a Skill is itself a cognitive upgrade path for the designer.**
+
+When you force yourself to articulate "why this image works" clearly enough to encode in a Skill for the model to execute — your own understanding deepens in the process. Many judgments you previously made by intuition get forced into explicit form, and that explicit articulation exposes fuzzy areas you hadn't noticed before.
+
+A Skill isn't just a tool for others. **Building it is the process of turning tacit knowledge into explicit methodology, a process of increasing the designer's own cognitive density.**
+
+The final Skill is frozen dialogue wisdom — letting others stand directly on this cognitive path without having to find their way from scratch.
+
+---
+
 ## Perspectives Determine Depth
 
 Most people who've used AI have noticed this: the same question, asked differently, can produce dramatically different quality answers.
@@ -107,32 +129,6 @@ The latter is meta-thinking — a cognitive framework transferable to lumbar pil
 **Analysis is valid within a specific Case. Insight is valid across Cases.** A Skill that only requires attribution produces analysis; requiring meta-thinking is what makes insight possible.
 
 Looking back at these layers — Skill encoding essence rather than surface, output progressing from identification to attribution to meta-thinking — they're all doing the same thing: **pushing the model from "describing the surface" toward "grasping the essence."** The model doesn't lack the ability to reach the essence; it lacks a signal telling it "don't stop at the surface, keep going deeper." **Every layer of the Skill's design is that signal.**
-
----
-
-## From Dialogue to Skill
-
-All of the above describes what a good Skill looks like. But there's another question: **how do you build one from scratch?**
-
-The methodology behind this Skill wasn't designed upfront. It emerged gradually through dialogue with the model.
-
-The process went roughly like this: start with a few images, dialogue with the model from different dimensions, explore and probe. In the conversation, stimulate, align, calibrate — see under which perspectives the model produces analysis that makes you think "yes, that's the depth I'm looking for." Collect those good results along with the thinking process that produced them, then reverse-engineer them into methodology. That methodology becomes the Skill's foundation.
-
-Then polish with different Cases.
-
-This polishing process is critical. What it's essentially doing is **testing which cognitive paths are surface-level and which are essence-level.** An analytical angle that works on a few specific images might fail on a different one — then it's surface. Cognitive paths that survive different Cases are genuine essence, and those are what deserve to stay in the Skill.
-
-This is also how "from surface to essence" manifests in practice: you don't distinguish the two through theorizing, but through the collision of different Cases filtering out the surface.
-
----
-
-There's an easily overlooked byproduct of this process: **building a Skill is itself a cognitive upgrade path for the designer.**
-
-When you force yourself to articulate "why this image works" clearly enough to encode in a Skill for the model to execute — your own understanding deepens in the process. Many judgments you previously made by intuition get forced into explicit form, and that explicit articulation exposes fuzzy areas you hadn't noticed before.
-
-A Skill isn't just a tool for others. **Building it is the process of turning tacit knowledge into explicit methodology, a process of increasing the designer's own cognitive density.**
-
-The final Skill is frozen dialogue wisdom — letting others stand directly on this cognitive path without having to find their way from scratch.
 
 ---
 
