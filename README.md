@@ -242,9 +242,9 @@ There's also a longer-term question worth considering. Model intelligence is adv
 
 ## Getting Started
 
-**Prerequisites**: [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI or desktop app, Python 3.6+
+**Prerequisites**: [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI or desktop app, or use [claude.ai](https://claude.ai) directly. Python 3.6+ (for report rendering).
 
-**Install**: Download the `.skill` file from [Releases](../../releases) and install in Claude Code.
+**Install**: Download the `.skill` file from [Releases](../../releases) and install in Claude Code. If using claude.ai, upload the Skill file contents as project knowledge.
 
 **Usage**: Upload an e-commerce scene photo and say "帮我分析这张场景图" or "Analyze this scene photo." The Skill triggers automatically, producing an interactive HTML analysis report.
 
