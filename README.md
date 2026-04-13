@@ -70,75 +70,69 @@ This means **the Skill designer's cognitive boundary becomes the ceiling of the 
 
 ---
 
-## Surface and Essence
+## From Surface to Essence
 
-The discussion above — "perspectives determine depth" — addresses how to make the model see deeper. But there's an equally important question: **what should the Skill itself encode?**
+The discussion above — "perspectives determine depth" — addresses how to make the model see deeper. But there's an equally important question: **once it sees deeper, what should the Skill retain?**
 
 During iteration, a recurring tendency emerged: the model would extract specific visual features from a few images and solidify them as rules. For example, seeing that good scene photos used soft lighting, it would encode "must use soft lighting."
 
-But soft lighting isn't the rule — it's one expression of the rule. The actual rule is: lighting in children's categories should serve a sense of safety — hard shadows on children trigger subconscious "unsafe" associations. Understanding this rule, you know soft lighting is just one means of achieving safety. In certain contexts, other approaches can achieve the same effect.
+But soft lighting isn't the rule — it's one expression of the rule. The actual rule is: lighting in children's categories should serve a sense of safety — hard shadows on children trigger subconscious "unsafe" associations. Understanding this rule, soft lighting is just one means among others.
 
-This is the same theme as before: **staying at the surface, or grasping the essence.**
-
-Encoding "used soft lighting" in the Skill is encoding the surface. Encoding "why soft lighting was used" is encoding the essence.
-
-A Skill that encodes the surface is brittle — change the scenario and it may break. A Skill that encodes the essence has vitality — because principles are stable, they can grow into different expressions across different scenarios.
-
-From the perspective of model potential, this distinction matters even more. **Encoding the surface actually constrains the model** — you lock it into specific visual choices, and it can only imitate. **Encoding the essence activates the model** — you tell it "why," and it has room to flexibly apply that principle in new scenarios, producing solutions you didn't anticipate yourself.
+**Encoding the surface actually constrains the model** — you lock it into specific visual choices, and it can only imitate. **Encoding the essence activates the model** — you tell it "why," and it has room to flexibly apply that principle in new scenarios, producing solutions you didn't anticipate yourself.
 
 A good Skill gives the model understanding, not instructions.
 
 ---
 
-## Attribution Is the Soul
+This "from surface to essence" principle applies not just to what the Skill encodes, but also to what it asks the model to produce.
 
-After the Skill was running, another problem emerged.
+"Key light enters from the right at 45°, soft light, low contrast" — that's **identification**, staying at "what."
 
-The output analysis was detailed and comprehensive across dimensions, but reading it always felt like something was missing.
+"Soft light was chosen because hard shadows trigger 'unsafe' associations, and the core emotional need of the mother-and-baby category is safety" — that's **attribution**, reaching "why."
 
-Eventually it became clear: it was doing identification, not attribution.
+**Identification tells you "what." Attribution tells you "why."** The gap between these isn't a matter of detail — it's a difference in kind.
 
----
+Identification isn't reusable — "this image uses soft light" helps nothing for the next image. But "soft light in children's categories fundamentally serves a safety need" transfers to packaging design, retail lighting, children's app interfaces — any context where safety is a core concern.
 
-"Key light enters from the right at 45°, soft light, low contrast" — that's identification.
-
-"Soft light was chosen because hard shadows on children subconsciously trigger 'unsafe' associations, and the core emotional need of the mother-and-baby category is safety" — that's attribution.
-
-The gap between these isn't a matter of detail. It's a **difference in kind**.
-
-**Identification tells you "what." Attribution tells you "why."**
+More importantly, attribution is what creates **resonance**. Identification makes people think "yes, correct." Attribution makes people think "ah, so that's why."
 
 ---
 
-Identification isn't reusable — "this image uses soft light" helps nothing for the next image.
-
-But "soft light in children's categories is fundamentally serving a safety need" transfers to any category where safety is a core concern. Packaging design, retail lighting in mother-and-baby stores, children's app interface color schemes — the attribution holds across all of them.
-
-More importantly, attribution is what creates **resonance** in the reader.
-
-Identification makes people think "yes, correct." Attribution makes people think "ah, so that's why."
-
-A report with only identification leaves you knowing facts without being sure why they matter. A report with attribution leaves you understanding the complete persuasion logic behind an image, and knowing how that logic can transfer.
-
----
-
-This Skill ultimately established six attribution perspectives, not as a "more is better" checklist, but to cover the different dimensions of "why does a person get persuaded by an image."
-
-It might work at the visual design level, the psychological level, or the cultural identity level. These dimensions aren't mutually exclusive — the same visual element often operates across multiple levels simultaneously.
-
-Above attribution sits another layer called **meta-thinking**.
-
-Attribution answers "why is this image effective." Meta-thinking answers "what transferable principle lies behind this that can be carried to other domains entirely."
+Above attribution sits another layer called **meta-thinking** — abstracting transferable principles from specific cases.
 
 For example, from "the side view is the best angle for showing sitting posture" attributed to "because it's like a posture X-ray," jumping to "all products whose core selling point is body-state improvement should prioritize state readability over product appearance."
 
 The latter is meta-thinking — a cognitive framework transferable to lumbar pillows, ergonomic keyboards, and entirely different categories.
 
-This is the dividing line between analysis and insight. Analysis is valid within a specific Case. Insight is valid across Cases.
+**Analysis is valid within a specific Case. Insight is valid across Cases.** A Skill that only requires attribution produces analysis; requiring meta-thinking is what makes insight possible.
 
-A Skill that only requires attribution produces analysis; requiring meta-thinking is what makes insight possible.
+Looking back at these layers — Skill encoding essence rather than surface, output progressing from identification to attribution to meta-thinking — they're all doing the same thing: **pushing the model from "describing the surface" toward "grasping the essence."** The model doesn't lack the ability to reach the essence; it lacks a signal telling it "don't stop at the surface, keep going deeper." **Every layer of the Skill's design is that signal.**
 
-Looking back at these design layers — perspective injection, attribution toolbox, meta-thinking requirements — they're all doing the same thing: **pushing the model from "describing the surface" toward "grasping the essence."** The model doesn't lack the ability to reach the essence; it lacks a signal telling it "don't stop at the surface, keep going deeper." **Every layer of the Skill's design is that signal.**
+---
+
+## From Dialogue to Skill
+
+All of the above describes what a good Skill looks like. But there's another question: **how do you build one from scratch?**
+
+The methodology behind this Skill wasn't designed upfront. It emerged gradually through dialogue with the model.
+
+The process went roughly like this: start with a few images, dialogue with the model from different dimensions, explore and probe. In the conversation, stimulate, align, calibrate — see under which perspectives the model produces analysis that makes you think "yes, that's the depth I'm looking for." Collect those good results along with the thinking process that produced them, then reverse-engineer them into methodology. That methodology becomes the Skill's foundation.
+
+Then polish with different Cases.
+
+This polishing process is critical. What it's essentially doing is **testing which cognitive paths are surface-level and which are essence-level.** An analytical angle that works on a few specific images might fail on a different one — then it's surface. Cognitive paths that survive different Cases are genuine essence, and those are what deserve to stay in the Skill.
+
+This is also how "from surface to essence" manifests in practice: you don't distinguish the two through theorizing, but through the collision of different Cases filtering out the surface.
+
+---
+
+There's an easily overlooked byproduct of this process: **building a Skill is itself a cognitive upgrade path for the designer.**
+
+When you force yourself to articulate "why this image works" clearly enough to encode in a Skill for the model to execute — your own understanding deepens in the process. Many judgments you previously made by intuition get forced into explicit form, and that explicit articulation exposes fuzzy areas you hadn't noticed before.
+
+A Skill isn't just a tool for others. **Building it is the process of turning tacit knowledge into explicit methodology, a process of increasing the designer's own cognitive density.**
+
+The final Skill is frozen dialogue wisdom — letting others stand directly on this cognitive path without having to find their way from scratch.
 
 ---
 
