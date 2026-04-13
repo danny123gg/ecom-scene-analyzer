@@ -267,9 +267,8 @@ ecom-scene-analyzer/
 │   ├── category-knowledge.md      # Domain knowledge
 │   ├── analysis-guide.md          # Analytical methodology
 │   └── prompt-guide.md            # Prompt generation guidelines
-├── scripts/
-│   └── render_report.py           # JSON → interactive HTML
-└── docs/
+└── scripts/
+    └── render_report.py           # JSON → interactive HTML
 ```
 
 ## License

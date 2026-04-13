@@ -266,9 +266,8 @@ ecom-scene-analyzer/
 │   ├── category-knowledge.md      # 领域知识
 │   ├── analysis-guide.md          # 分析方法论
 │   └── prompt-guide.md            # 提示词指引
-├── scripts/
-│   └── render_report.py           # JSON → 交互式 HTML
-└── docs/
+└── scripts/
+    └── render_report.py           # JSON → 交互式 HTML
 ```
 
 ## 许可证
