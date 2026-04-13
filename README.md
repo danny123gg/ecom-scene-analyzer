@@ -10,6 +10,8 @@ Your disciplinary range, your aesthetic sensitivity, your ability to distinguish
 
 This document explores how that understanding took shape.
 
+![Report Overview](docs/demo-overview.png)
+
 ---
 
 ## Perspectives Determine Depth
@@ -185,6 +187,10 @@ The presentation of results is also worth investing in.
 Analysis content is rendered into an interactive HTML report: source image and overview displayed side by side, four tabs switching between five-dimension analysis, core insights, style parameters, and prompts. The tab bar sticks on scroll, the source image shrinks to a floating thumbnail for reference.
 
 Different cognitive layers are carried by different visual hierarchies — observation and attribution presented separately, core insights' three-level progression (attribution → meta-thinking → reuse suggestions) each in their own block.
+
+![Core Insights](docs/demo-insights.png)
+
+![Prompt Generation](docs/demo-prompts.png)
 
 Deep thinking deserves to be clearly seen.
 
