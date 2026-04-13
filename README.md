@@ -14,17 +14,28 @@ This document explores how that understanding took shape.
 
 <a href="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" target="_blank"><img width="800" alt="Report Overview" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" /></a>
 
+
 ---
 
 ## Skills Start from Dialogue with the Model
 
 The methodology behind this Skill wasn't designed upfront. It emerged gradually through dialogue with the model.
 
-The process went roughly like this: start with a few images, dialogue with the model from different dimensions, explore and probe. In the conversation, stimulate, align, calibrate — see under which perspectives the model produces analysis that makes you think "yes, that's the depth I'm looking for." Collect those good results along with the thinking process that produced them, then reverse-engineer them into methodology. That methodology becomes the Skill's foundation.
+The starting point was simple: take a few e-commerce scene photos, start a conversation with the model, and explore from different dimensions. Begin with basic composition and lighting to see what the model produces; then revisit the same image through a psychology lens, then a marketing lens. With each new set of perspectives, the model's analysis pushes forward another layer. Through this process, you gradually sense which perspectives touch something genuinely valuable and which are just skating the surface.
 
-Then polish with different Cases.
+But that's only the first step. Dialogue produces scattered analytical fragments, not methodology. The next step is collecting the results that made you think "yes, that's the depth I'm looking for" — along with the thinking process that produced them — and reverse-engineering them into something reusable. From "I happened to ask the right question this time" to "these are the dimensions I should always ask from."
 
-This polishing process is critical. What it's essentially doing is **testing which cognitive paths are surface-level and which are essence-level.** An analytical angle that works on a few specific images might fail on a different one — then it's surface. Cognitive paths that survive different Cases are genuine essence, and those are what deserve to stay in the Skill.
+That's the embryo of a methodology, and the embryo of a Skill.
+
+---
+
+But embryos are often fragile.
+
+An analytical path that works on a handful of images might collapse on a different one. So the next phase is polishing with different Cases — images from different angles, styles, and scenarios, fed in one after another, testing which cognitive paths hold up and which crumble.
+
+The essence of polishing is **distinguishing surface from core**. Paths that only work on specific Cases are surface-level. Paths that survive different Cases are core-level. There's no shortcut — you can only test one image at a time. Each surface-level path that gets knocked out makes the remaining core that much more solid.
+
+This is why this Skill went through over a dozen iterations — not fixing bugs, but repeatedly filtering: what deserves to stay, and what should be discarded.
 
 ---
 
@@ -94,11 +105,11 @@ This means **the Skill designer's cognitive boundary becomes the ceiling of the 
 
 ## From Surface to Essence
 
-The discussion above — "perspectives determine depth" — addresses how to make the model see deeper. But there's an equally important question: **once it sees deeper, what should the Skill retain?**
+Perspectives address "how to make the model see deeper." But there's an equally important question: **once it sees deeper, what should the Skill retain?**
 
-During iteration, a recurring tendency emerged: the model would extract specific visual features from a few images and solidify them as rules. For example, seeing that good scene photos used soft lighting, it would encode "must use soft lighting."
+During iteration, a recurring tendency emerged: the model would extract specific visual features — warm tones, soft lighting, hardwood floors — and solidify them as rules.
 
-But soft lighting isn't the rule — it's one expression of the rule. The actual rule is: lighting in children's categories should serve a sense of safety — hard shadows on children trigger subconscious "unsafe" associations. Understanding this rule, soft lighting is just one means among others.
+But warm tones aren't the rule — they're one expression of the rule. The actual rule is: the visual tone of children's categories should serve a sense of safety and warmth. Understanding this rule, warm tones are just one means among others. In certain contexts, cool tones can also convey safety, as long as the overall visual language is unified.
 
 **Encoding the surface actually constrains the model** — you lock it into specific visual choices, and it can only imitate. **Encoding the essence activates the model** — you tell it "why," and it has room to flexibly apply that principle in new scenarios, producing solutions you didn't anticipate yourself.
 
@@ -106,15 +117,15 @@ A good Skill gives the model understanding, not instructions.
 
 ---
 
-This "from surface to essence" principle applies not just to what the Skill encodes, but also to what it asks the model to produce.
+This principle equally applies to what the Skill asks the model to produce.
 
 "Key light enters from the right at 45°, soft light, low contrast" — that's **identification**, staying at "what."
 
-"Soft light was chosen because hard shadows trigger 'unsafe' associations, and the core emotional need of the mother-and-baby category is safety" — that's **attribution**, reaching "why."
+"Soft lighting serves the need for safety — hard shadows on children trigger subconscious 'unsafe' associations" — that's **attribution**, reaching "why."
 
 **Identification tells you "what." Attribution tells you "why."** The gap between these isn't a matter of detail — it's a difference in kind.
 
-Identification isn't reusable — "this image uses soft light" helps nothing for the next image. But "soft light in children's categories fundamentally serves a safety need" transfers to packaging design, retail lighting, children's app interfaces — any context where safety is a core concern.
+Identification isn't reusable — "this image uses soft light" helps nothing for the next image. But attribution transfers — "the need for safety determines lighting choices" can be carried to packaging design, retail lighting, children's app interfaces — any context where safety is a core concern.
 
 More importantly, attribution is what creates **resonance**. Identification makes people think "yes, correct." Attribution makes people think "ah, so that's why."
 
@@ -152,13 +163,7 @@ Two design choices in this "from essence to expression" conversion are worth men
 
 ---
 
-## Making Thinking Visible
-
-The presentation of results is also worth investing in.
-
-Analysis content is rendered into an interactive HTML report: source image and overview displayed side by side, four tabs switching between five-dimension analysis, core insights, style parameters, and prompts. The tab bar sticks on scroll, the source image shrinks to a floating thumbnail for reference.
-
-Different cognitive layers are carried by different visual hierarchies — observation and attribution presented separately, core insights' three-level progression (attribution → meta-thinking → reuse suggestions) each in their own block.
+The final analysis and prompts are rendered into an interactive HTML report: source image and overview displayed side by side, four tabs switching between five-dimension analysis, core insights, style parameters, and prompts. The tab bar sticks on scroll, the source image shrinks to a floating thumbnail for constant reference. Different cognitive layers are carried by different visual hierarchies — observation and attribution presented separately, core insights' three-level progression each in their own block.
 
 <p>
 <a href="https://github.com/user-attachments/assets/3ff4f544-1aea-4cb2-bb76-893a0df48b4b" target="_blank"><img width="32%" alt="Core Insights" src="https://github.com/user-attachments/assets/3ff4f544-1aea-4cb2-bb76-893a0df48b4b" /></a>
