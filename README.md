@@ -134,29 +134,21 @@ Looking back at these layers — Skill encoding essence rather than surface, out
 
 ## From Analysis to Generation
 
-The other half of this Skill is prompt generation — based on analysis results, producing prompts that can be directly used with AI image generation tools.
+No matter how deep the analysis goes, if it can't be converted into executable generation instructions, it stays at the "understanding" stage. The other half of this Skill is prompt generation — turning all the analytical insights into prompts that can be directly fed to AI image generation tools.
 
-> **Prompts are not translations of style parameters — they are crystallizations of the entire analysis.** They read like surface-level descriptions — what color, what angle, what clothing — but every specific choice is a distillation of the deeper analysis. When the prompt says "cream-colored knit top," that's not a random color pick — it's the product of understanding that "the upper body overlaps with the chair back and should implement a stealth strategy, not competing for visual weight." When it says "a quiet afternoon," that's not atmospheric decoration — it's anchoring the exact usage scenario that triggers parental identification. It looks like describing a scene. It's actually encoding insight.
+The complexity of this step far exceeded expectations.
 
-> **On generation model choice**: The generated prompts are recommended for use with Google's Gemini model family. Tested with good results on Gemini Nano and Imagen (Banana2). Prompt effectiveness correlates directly with the generation model's intelligence level — stronger models interpret visual semantics, spatial relationships, and character descriptions more accurately, producing noticeably better output.
->
-> From another angle, using this Skill is itself a process of activating the model's potential — category knowledge supplements its vertical domain cognition, the attribution toolbox configures cross-disciplinary analytical perspectives, and the cognitive ladder guides it from identification to insight. A Skill isn't just an execution script; it's a carefully designed set of cognitive activation signals.
+Analysis is "understanding why a good image works." Prompts are "instructing the generation of an equally good new image." This looks like a simple transfer from understanding to execution, but there's a massive gap in between: **the language of analysis is attributional ("why use soft lighting"), while prompt language must be descriptive ("natural light filtered through sheer curtains from the right").** You need to re-encode "why" back into "what" — but every detail of that "what" must have been forged through "why."
 
-Two design choices are worth mentioning.
+> **Prompts are not translations of style parameters — they are crystallizations of the entire analysis.** When the prompt says "cream-colored knit top," that's not a random color pick — it's the product of understanding that "the upper body overlaps with the chair back and should implement a stealth strategy, not competing for visual weight." When it says "a quiet afternoon," that's not atmospheric decoration — it's anchoring the exact usage scenario that triggers parental identification. It looks like describing a scene. It's actually encoding insight.
 
-**The first is "Step Zero."** Before filling in any parameters, describe a complete life scene in one sentence — "A quiet afternoon, a well-behaved girl doing homework at her desk, sunlight streaming through sheer curtains."
+Two design choices in this "from essence to expression" conversion are worth mentioning.
 
-With this image in mind, clothing colors, prop choices, and lighting direction are no longer isolated parameters requiring individual decisions — they grow naturally from the scene.
+**The first is "Step Zero"** — before filling in any parameters, describe a complete life scene in one sentence. For example: "A quiet afternoon, a well-behaved girl doing homework at her desk, sunlight streaming through sheer curtains." With this holistic image, clothing colors, props, and lighting are no longer isolated parameters requiring individual decisions — they grow naturally from the scene. This counters the model's tendency to "assemble from parameter tables," which produces technically correct but lifeless images.
 
-This solves the problem of models "assembling from parameter tables" which produces technically correct but lifeless images. Whole-first, then parts — not parts-first, then assembly.
+**The second is the separation of content and design_notes** — content is pure execution instruction for AI generation tools, design_notes are decision explanations for designers. The model tends to unconsciously mix "why this color was chosen" into "what colors are in the scene." Separating the two is a structural countermeasure designed around an observed cognitive tendency.
 
-**The second is the separation of content and design_notes.** The prompt body (content) is pure execution instruction for AI generation tools; design notes (design_notes) are decision explanations for designers.
-
-The model tends to unconsciously mix "why this color was chosen" into "what colors are in the scene" — it has an inclination to explain its own choices. Separating the two is a structural countermeasure designed around an observed cognitive tendency.
-
-There are quite a few similar small designs — requiring variants to cover different dimensions rather than just rephrase, self-checking for aspect ratio and subject proportion inclusion — each backed by a real problem encountered during iteration.
-
-Accumulated together, they form a map of the model's cognitive tendencies.
+> **On generation model choice**: The generated prompts are recommended for use with Google's Gemini model family. Tested with good results on Nano Banana 2 (Gemini 3.1 Flash Image). Prompt effectiveness correlates directly with the generation model's intelligence level — stronger models interpret visual semantics, spatial relationships, and character descriptions more accurately, producing noticeably better output.
 
 ---
 
@@ -182,31 +174,21 @@ This aligns with the Skill's own philosophy: not a black box, but a cognitive pa
 
 ## Returning to the Beginning
 
-This Skill's structure — three separated knowledge files, five-dimension analysis framework, six attribution perspectives, cognitive ladder — all of this can be copied.
+This Skill's structure can be copied. Three separated knowledge files, five-dimension framework, six attribution perspectives, cognitive ladder — switch categories, replace domain knowledge, and the framework still holds.
 
-Switch to a different category, replace the domain knowledge file, and the framework still holds.
+But structure is just the skeleton. What determines a Skill's true depth are the judgments made while building it — "which perspectives to include," "how deep to push," "what to keep and what to discard." These judgments don't come from prompt techniques. They come from the understanding of human motivation you gained from psychology, the beyond-language perceptual ability you cultivated in art museums, the habit of questioning premises you formed through philosophical training — from the sensitivity to things that all your reading, experience, and thinking have deposited.
 
-But the judgments made while building this framework — including sensory synesthesia in the toolbox rather than something else, requiring meta-thinking rather than stopping at attribution, distinguishing observations from principles rather than conflating them — these judgments come from the designer's own accumulation.
-
-Not any one specific kind of accumulation, but the sensitivity to things that sediments from all reading, experience, and thinking combined.
+**AI is the sum of all known knowledge. A person with deep humanistic literacy is the conductor of that sum.** Doesn't need to play every instrument, but knows what section should sound at what moment.
 
 ---
 
-The model's capability is the same for everyone. But how far each person can awaken it differs.
+This Skill is one attempt — freezing a cognitive pathway that emerged from dialogue, making it reusable for more people. But using it is itself a practice in activating model potential: category knowledge fills the model's domain blind spots, the attribution toolbox pushes it from phenomena to essence, the cognitive ladder guides it from analysis to insight. **This logic isn't limited to e-commerce photo analysis — it's a Skill design paradigm transferable to any domain.**
 
-The difference isn't in who has mastered better prompt techniques, but in who can provide richer perspectives, more accurate judgments, deeper lines of questioning.
+And at a larger scale, there's a question worth serious consideration by everyone working with AI:
 
-The source of these things is the understanding of human motivation you gained from psychology, the beyond-language perceptual ability you cultivated in art museums, the habit of questioning premises you formed through philosophical training, the sensitivity to the world that all your experiences have deposited.
+Model intelligence is advancing rapidly, but human cognitive bandwidth and knowledge reserves have inherent limits. Today you can activate the model's depth by providing six analytical perspectives. But when the model's capability ceiling far exceeds the number of perspectives you can think of, the bottleneck is no longer the model — **the bottleneck is the human.**
 
-AI is the sum of all known knowledge. A person with deep humanistic literacy is the conductor of that sum — doesn't need to play every instrument, but knows what section should sound at what moment.
-
-This Skill is one attempt. It tries to freeze a cognitive pathway that emerged from dialogue, making it reusable for more people.
-
-But it's more than a reusable tool. Using this Skill is itself a practice in activating model potential — you'll see how category knowledge fills the model's vertical domain blind spots, how the attribution toolbox pushes it from "describing phenomena" to "explaining essences," how the cognitive ladder guides it from analysis to insight. This logic of moving from surface to core isn't limited to e-commerce photo analysis — it's a Skill design methodology transferable to any domain.
-
-And this is the final reminder: what truly determines the depth of output isn't the Skill's structure, but whether the person designing the Skill has the ability to grasp the essence of things rather than stopping at the surface — and how much they're willing to invest in their own depth.
-
-There's also a longer-term question worth considering. Model intelligence is advancing rapidly, but human cognitive bandwidth and knowledge reserves have inherent limits. As the model's capability ceiling keeps rising while the human conductor's bandwidth doesn't scale proportionally, **how to more effectively activate model potential may become the most central question in human-AI collaboration**. This Skill is one small-scale experiment toward that question, but far from an answer. The answer needs more people exploring together.
+**How to more effectively activate model potential may be the most central and urgent question in human-AI collaboration.** It's not just a technical question — it's a question about human growth itself. This Skill is one small-scale experiment toward that question, but far from an answer. The answer needs more people exploring together.
 
 ---
 
