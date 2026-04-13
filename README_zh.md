@@ -8,7 +8,11 @@
 
 **Skill 不只是一个自动化工具，它是一套模型潜力的激活方案**——通过精心设计的知识注入、分析视角和认知路径，把模型从停留在表象的默认状态，引导到触及事物内核的深度。这篇文档想展开聊聊这个体会是怎么形成的。
 
+<br/>
+
 <a href="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" target="_blank"><img width="800" alt="报告总览" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" /></a>
+
+<br/>
 
 ---
 

@@ -8,7 +8,11 @@ One thing became increasingly clear while building this Skill: **the model's cap
 
 **A Skill is not just an automation tool — it's a model potential activation system.** Through carefully designed knowledge injection, analytical perspectives, and cognitive pathways, it guides the model from its default state of surface-level description to a depth that touches the essence of things. This document explores how that understanding took shape.
 
+<br/>
+
 <a href="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" target="_blank"><img width="800" alt="Report Overview" src="https://github.com/user-attachments/assets/8173a4ed-6cd2-4396-9298-2b73aa130647" /></a>
+
+<br/>
 
 ---
 
